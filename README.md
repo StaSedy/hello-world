@@ -1,2 +1,3 @@
-# hello-world
-A first repository. The sevens sin of the sevens sons
+# hello-world change
+A first repository.
+Log 1029: Try to make things change
